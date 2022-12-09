@@ -2,7 +2,7 @@
 
 https://htranchung.github.io/Horiseon-Marketing-Agency-Repo/ 
 
-![](assets/images/Page%20Screenshot.png)
+<img src="assets/images/Page%20Screenshot.png" width="500" height="500">
 
 ## Description
 
