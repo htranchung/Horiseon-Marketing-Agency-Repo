@@ -2,6 +2,8 @@
 
 https://htranchung.github.io/Horiseon-Marketing-Agency-Repo/ 
 
+![](assets/images/Page%20Screenshot.png)
+
 ## Description
 
 - Attract potential clients to use Horiseon's service 
